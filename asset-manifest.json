@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/e-shop/static/css/main.cbcf9ebc.css",
-    "main.js": "/e-shop/static/js/main.098856b8.js",
-    "static/media/banner.jpg": "/e-shop/static/media/banner.3bf7f04d2a85966144b1.jpg",
-    "index.html": "/e-shop/index.html",
-    "main.cbcf9ebc.css.map": "/e-shop/static/css/main.cbcf9ebc.css.map",
-    "main.098856b8.js.map": "/e-shop/static/js/main.098856b8.js.map"
+    "main.css": "/react-meal/static/css/main.f58f4ece.css",
+    "main.js": "/react-meal/static/js/main.098856b8.js",
+    "static/media/banner.jpg": "/react-meal/static/media/banner.3bf7f04d2a85966144b1.jpg",
+    "index.html": "/react-meal/index.html",
+    "main.f58f4ece.css.map": "/react-meal/static/css/main.f58f4ece.css.map",
+    "main.098856b8.js.map": "/react-meal/static/js/main.098856b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbcf9ebc.css",
+    "static/css/main.f58f4ece.css",
     "static/js/main.098856b8.js"
   ]
 }
