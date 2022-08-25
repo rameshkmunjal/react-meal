@@ -23,7 +23,7 @@ const App=()=>{
                 <Nav />
                 <Header />         
                 <Routes>
-                    <Route path="/" element={<HomeScreen />} />
+                    <Route path="/react-meal" element={<HomeScreen />} />
                     <Route path="/showCategory" element={<CategoryScreen />} />
                     <Route path="/showArea" element={<AreaScreen />} /> 
                     <Route path="/ingredients" element={<IngredientScreen />} />

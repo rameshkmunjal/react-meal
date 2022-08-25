@@ -4,7 +4,7 @@ const Search=()=>{
     return(
         <div id="search-box">
             <input type="text"   />
-            <i class="fas fa-search"></i>
+            <i className="fas fa-search"></i>
         </div>
     )
 }

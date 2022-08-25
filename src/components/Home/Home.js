@@ -2,13 +2,16 @@
 import './Home.css';
 import React from 'react';
 import {Link } from 'react-router-dom';
+import dining_1 from '../images/dining-1.jpg';
+import dining_2 from '../images/dining-2.jpg';
+import dining_3 from '../images/dining-3.jpg';
 
 const Home=()=>{
     return(
         <div className="home-container">
           <div className="categories-div display-box">
               <div className="img-box">
-                    <img src={`./images/dining-2.jpg`} alt="banner_pic" />
+                    <img src={dining_2} alt="banner_pic" />
               </div>
               <div className="contents-box">
                   <div className="contents">
@@ -27,7 +30,7 @@ const Home=()=>{
             </div>
           <div className="areas-div display-box">
           <div className="img-box">
-                    <img src={`./images/dining-1.jpg`} alt="banner_pic" />
+                    <img src={dining_1} alt="banner_pic" />
               </div>
               <div className="contents-box">
               <div className="contents">
@@ -43,7 +46,7 @@ const Home=()=>{
            </div>
           <div className="ingredients-div display-box">
             <div className="img-box">
-                        <img src={`./images/dining-3.jpg`} alt="banner_pic" />
+                        <img src={dining_3} alt="banner_pic" />
                 </div>
                 <div className="contents-box">
                 <div className="contents">
